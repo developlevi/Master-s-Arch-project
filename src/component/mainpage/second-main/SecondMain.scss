@@ -1,0 +1,42 @@
+@import "../ui/variable.scss";
+
+.secondMain {
+  height: 100vh;
+  background-color: white;
+  display: flex;
+}
+.secondMain-title {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5rem;
+}
+.title {
+  color: black;
+}
+.sub-title {
+  width: 400px;
+  text-align: center;
+}
+.courses {
+  display: flex;
+  flex-direction: row;
+  margin-top: 10rem;
+  text-align: center;
+  height: 40vh;
+  justify-content: space-between;
+}
+.course-title {
+  margin-bottom: 8rem;
+}
+.course-explained {
+  width: 228px;
+}
+.apply-now {
+  display: flex;
+  justify-content: center;
+}
+.signup {
+  margin-bottom: 5rem;
+}

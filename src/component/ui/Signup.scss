@@ -1,0 +1,10 @@
+@import "./variable.scss";
+
+.signup {
+  background-color: $second;
+  border-radius: 50px;
+  width: 10rem;
+  &:hover {
+    background-color: #062c30;
+  }
+}

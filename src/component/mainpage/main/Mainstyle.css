@@ -1,0 +1,94 @@
+.main {
+  height: 100vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  background-color: #062c30;
+}
+
+.logo {
+  color: white;
+  margin-right: auto;
+}
+
+.header {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-top: 3rem;
+}
+
+.signup {
+  background-color: #05595b;
+  border-radius: 50px;
+  margin-left: 2rem;
+  width: 10rem;
+}
+
+.signup:hover {
+  background-color: #062c30;
+}
+
+.sign-up {
+  background-color: #05595b;
+  border-radius: 50px;
+  margin-left: 2rem;
+  width: 10rem;
+}
+
+.sign-up:hover {
+  background-color: #062c30;
+}
+
+.login {
+  text-decoration: none;
+  color: white;
+}
+
+.join {
+  color: white;
+}
+
+.main-explained {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  height: 80vh;
+}
+
+.join {
+  width: 300px;
+  text-align: center;
+}
+
+.join-explained {
+  color: white;
+  width: 500px;
+  text-align: center;
+}
+
+.buttons {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+/*# sourceMappingURL=Mainstyle.css.map */

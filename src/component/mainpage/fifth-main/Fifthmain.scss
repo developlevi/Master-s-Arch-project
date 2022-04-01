@@ -1,0 +1,23 @@
+@import "../ui/variable.scss";
+
+.fifthmain {
+  background-color: $dark;
+  height: 40vh;
+}
+.contents-prev {
+  color: white;
+  height: 6rem;
+  display: flex;
+  align-items: center;
+}
+.contents-title {
+  margin-top: 10px;
+}
+.contents-vid {
+  margin-top: 2rem;
+  display: flex;
+  justify-content: space-between;
+}
+.contents {
+  color: black;
+}

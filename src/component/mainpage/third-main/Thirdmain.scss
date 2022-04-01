@@ -1,0 +1,50 @@
+@import "../ui/variable.scss";
+
+.Thirdmain {
+  height: 250vh;
+  background-color: $dark;
+}
+.titleContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 5rem;
+}
+.grow {
+  margin-top: 5rem;
+  color: white;
+}
+.contents {
+  display: flex;
+  flex-direction: column;
+  color: white;
+  justify-content: space-between;
+}
+.first {
+  display: flex;
+  justify-content: space-evenly;
+  margin-bottom: 5rem;
+}
+.words {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 441px;
+}
+.last {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10rem;
+  color: white;
+}
+.last-title {
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+.start {
+  text-decoration: none;
+  color: white;
+}

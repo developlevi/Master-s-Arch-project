@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,UAAU,CAAC;EACT,gBAAgB,ECHX,OAAO;EDIZ,MAAM,EAAE,IAAI;CACb;;AACD,AAAA,cAAc,CAAC;EACb,KAAK,EAAE,KAAK;EACZ,MAAM,EAAE,IAAI;EACZ,OAAO,EAAE,IAAI;EACb,WAAW,EAAE,MAAM;CACpB;;AACD,AAAA,eAAe,CAAC;EACd,UAAU,EAAE,IAAI;CACjB;;AACD,AAAA,aAAa,CAAC;EACZ,UAAU,EAAE,IAAI;EAChB,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,aAAa;CAC/B;;AACD,AAAA,SAAS,CAAC;EACR,KAAK,EAAE,KAAK;CACb",
+    "sources": [
+        "Fifthmain.scss",
+        "../ui/variable.scss"
+    ],
+    "names": [],
+    "file": "Fifthmain.css"
+}
